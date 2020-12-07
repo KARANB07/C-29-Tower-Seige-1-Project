@@ -59,7 +59,7 @@ r5.display();
 r6.display();
 r7.display();
 textSize(30)
-text("Drag the striker and release to shoot",200,50)
+text("Drag the yellow pentagon and release to shoot",200,50)
 //line(p1x,p1y,p2x,p2y)
 }
 
